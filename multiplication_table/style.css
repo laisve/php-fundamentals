@@ -1,0 +1,11 @@
+table {
+    border: 2px solid grey;
+    font-family: Tahoma;
+}
+td {
+    border: 1px solid grey;
+    padding: 5px;
+}
+#top-row {
+    font-weight: bold;
+}
